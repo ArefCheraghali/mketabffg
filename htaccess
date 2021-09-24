@@ -1,0 +1,7 @@
+RewriteEngine on
+
+RewriteRule ^Home?$ /index.php [L]
+RewriteRule ^LogIn?$ /login.php [L]
+RewriteRule ^AboutUs?$ /aboutus.php [L]
+RewriteRule ^Dashboard?$ /dashboard.php [L]
+RewriteRule ^Test?$ /test.php [L]
